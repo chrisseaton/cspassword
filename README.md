@@ -7,8 +7,6 @@ only use CSPassord to migrate to a different password manager. Modern and
 properly engineered alternatives include [1Password](https://1password.com) and
 [GnuPG](http://www.gnupg.org).
 
-----
-
 # Download
 
 *   [PasswordSafe 1.0](https://github.com/chrisseaton/cspassword/releases/download/1.0/passwordsafe-windows-1.0.zip)
